@@ -8,9 +8,21 @@
       <link href="/2019/06/15/nginx_install/"/>
       <url>/2019/06/15/nginx_install/</url>
       
-        <content type="html"><![CDATA[<p>#nginx安装<br>1.下载代码<br>2.解压代码<br>3.准备编译环境<br>4.开始编译及编译参数<br>5.提供systemctl脚本</p>]]></content>
+        <content type="html"><![CDATA[<p>#nginx安装<br><img src="images/NGINX-logo-rgb-large.png" alt="nginx-logo"><br>1.下载代码<br>2.解压代码<br>3.准备编译环境<br>4.开始编译及编译参数<br>5.提供systemctl脚本</p>]]></content>
       
       
+      <categories>
+          
+          <category> nginx </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> nginx </tag>
+            
+        </tags>
       
     </entry>
     
